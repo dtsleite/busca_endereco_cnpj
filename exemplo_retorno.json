@@ -1,0 +1,50 @@
+{
+  "atividade_principal": [
+    {
+      "text": "Outras atividades de atenção à saúde humana não especificadas anteriormente",
+      "code": "86.90-9-99"
+    }
+  ],
+  "data_situacao": "18/04/2003",
+  "nome": "CAIXA ASSISTENCIAL UNIVERSITARIA DO RIO DE JANEIRO",
+  "uf": "RJ",
+  "qsa": [
+    {
+      "qual": "16-Presidente",
+      "nome": "MARIA RAQUEL DE ASSIS GOMES"
+    }
+  ],
+  "situacao": "ATIVA",
+  "bairro": "PRAIA VERMELHA",
+  "logradouro": "AV VENCESLAU BRAS",
+  "numero": "71",
+  "cep": "22.290-140",
+  "municipio": "RIO DE JANEIRO",
+  "porte": "DEMAIS",
+  "abertura": "16/02/1996",
+  "natureza_juridica": "399-9 - Associação Privada",
+  "fantasia": "CAURJ",
+  "cnpj": "01.052.203/0001-94",
+  "ultima_atualizacao": "2019-06-06T19:12:05.468Z",
+  "status": "OK",
+  "tipo": "MATRIZ",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}
